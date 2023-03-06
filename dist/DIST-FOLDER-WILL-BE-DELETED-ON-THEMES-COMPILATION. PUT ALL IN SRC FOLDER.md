@@ -1,0 +1,1 @@
+Folder dist/ will be deleted on themes compilation. PUT ALL IN SRC/ FOLDER !!
